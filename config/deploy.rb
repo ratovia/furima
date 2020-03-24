@@ -1,4 +1,4 @@
-lock '3.11.0'
+lock '3.12.1'
 set :application, 'furima'
 set :repo_url,  'git@github.com:ratovia/furima.git'
 
